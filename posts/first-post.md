@@ -1,6 +1,0 @@
----
-title: "Welcome to The Daily Scribbles"
-date: 2025-10-05
----
-
-Hello! This is the first post on The Daily Scribbles. Stay tuned for more thoughts, stories, and ideas!
